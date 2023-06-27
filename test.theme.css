@@ -9,7 +9,6 @@
  * @BDEditor Clear Vision
 */
 
-@import url('https://fonts.googleapis.com/css2?family=LEMON+MILK+Regular:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
@@ -64,8 +63,8 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: LEMON MILK Regular;
-  --code-font: LEMON MILK Regular;
+  --main-font: LEMON MILK;
+  --code-font: LEMON MILK;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
