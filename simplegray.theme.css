@@ -1,0 +1,27 @@
+/**
+ * @name Simple Gray
+ * @author r-e-n-s-a
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/53466-simple_gray.html
+ * @authorLink https://vsthemes.org/user/r-e-n-s-a/
+ * @authorId 129454
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.05;
+    --guildchanneltransparency: 0.05;
+    --memberlistransparency: 0;
+    --accentcolor: 126,126,126;
+    --background: url("https://vsthemes.org/uploads/posts/2022-09/1664444063_146144-anime-manga-anime-girls-illustration-fan-art-demon-girl-monochrome-minimalism-dark-background-selective-coloring-red-horns.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
