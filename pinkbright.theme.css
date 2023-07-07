@@ -1,0 +1,27 @@
+/**
+ * @name Fate/Apocrypha of Astolfo v.5
+ * @author TereruNaYo
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/48439-sudba-apokrif-astolfo-v5.html
+ * @authorLink https://vsthemes.org/user/TereruNaYo/
+ * @authorId 65141
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.35;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0.05;
+    --accentcolor: 238,160,214;
+    --background: url("https://vsthemes.org/uploads/posts/2021-12/1640206764_985303.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
