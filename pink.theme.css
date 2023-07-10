@@ -14,9 +14,9 @@
   --opacity: 0.83; /* Opacity of overall app. | Default: .85 */
   --accent: 205,160,157; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --glow-intensity: 10; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
-  --font: Dosis; /* Custom font | Default: 'Inter' */
-  --channels-width: 300px; /* Width of the channels list. | Default: 300px */
-  --guilds-width: 105px; /* Width of the server list. | Default: 105px */
+  --font: Inter; /* Custom font | Default: 'Inter' */
+  --channels-width: 220px; /* Width of the channels list. | Default: 300px */
+  --guilds-width: 85px; /* Width of the server list. | Default: 105px */
   --members-width: 280px; /* Width of the members list. | Default: 280px */
   --server-size: 40px; /* Size of the servers inside the server list. | Default: 50px */
   --chat-avatar-size: 40px; /* Size of the chat avatars. | Default: 32px */
