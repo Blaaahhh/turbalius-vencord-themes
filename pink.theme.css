@@ -3,7 +3,7 @@
  * @author Hokkitseth#4586
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&family=Dosis&display=swap');
 @import url('https://discordstyles.github.io/SoftX/SoftX.css');
 @import url('https://discordstyles.github.io/SoftX/RadialGlow.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
@@ -14,7 +14,7 @@
   --opacity: 0.83; /* Opacity of overall app. | Default: .85 */
   --accent: 205,160,157; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --glow-intensity: 10; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
-  --font: Dosis; /* Custom font | Default: 'Inter' */
+  --font: Barlow Semi Condensed; /* Custom font | Default: 'Inter' */
   --channels-width: 250px; /* Width of the channels list. | Default: 300px */
   --guilds-width: 75px; /* Width of the server list. | Default: 105px */
   --members-width: 280px; /* Width of the members list. | Default: 280px */
