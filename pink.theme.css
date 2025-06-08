@@ -9,7 +9,7 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://tenor.com/gj081EyD6Eq.gif'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://media1.tenor.com/m/R7yuMErSM1QAAAAC/mari-omori-omori.gif'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 0px; /* Blur intensity of --background-image */
   --opacity: 0.83; /* Opacity of overall app. | Default: .85 */
   --accent: 205,160,157; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
